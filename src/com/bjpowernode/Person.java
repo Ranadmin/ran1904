@@ -5,6 +5,7 @@ public class Person {
 
     private String name;
     private String xxx;
+    private String age;
 
     public static void main(String[] args) {
 
